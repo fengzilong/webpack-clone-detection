@@ -99,6 +99,11 @@
     "@babel/helper-validator-identifier" "^7.15.7"
     to-fast-properties "^2.0.0"
 
+"@biu/simhash@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.npmmirror.com/@biu/simhash/download/@biu/simhash-0.1.0.tgz#418577b1af59a1f30d917c79b7f05a0f7466fc8e"
+  integrity sha512-y34M9nvwMfscqslcLya04TYsgzzhwyjDLhbQkOZwLGOPl3hX0HLDKOI4Hpfug6sLhI7ZEJGHYdDcazxZoNuQzQ==
+
 "@discoveryjs/json-ext@^0.5.0":
   version "0.5.5"
   resolved "https://registry.nlark.com/@discoveryjs/json-ext/download/@discoveryjs/json-ext-0.5.5.tgz?cache=0&sync_timestamp=1631662271843&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40discoveryjs%2Fjson-ext%2Fdownload%2F%40discoveryjs%2Fjson-ext-0.5.5.tgz#9283c9ce5b289a3c4f61c12757469e59377f81f3"
@@ -381,6 +386,11 @@ atob@^2.1.2:
   version "2.1.2"
   resolved "https://registry.nlark.com/atob/download/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha1-bZUX654DDSQ2ZmZR6GvZ9vE1M8k=
+
+average@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/average/download/average-1.0.0.tgz#6d4f7a7e9ee3b2e9c8a09ed957407f12849a490e"
+  integrity sha1-bU96fp7jsunIoJ7ZV0B/EoSaSQ4=
 
 balanced-match@^1.0.0:
   version "1.0.2"
