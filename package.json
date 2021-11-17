@@ -27,6 +27,6 @@
   "dependencies": {
     "@biu/simhash": "^0.1.0",
     "average": "^1.0.0",
-    "code-signature": "^0.1.0"
+    "code-signature": "^0.1.1"
   }
 }
