@@ -21,12 +21,15 @@
   },
   "homepage": "https://github.com/fengzilong/webpack-clone-detection#readme",
   "devDependencies": {
+    "deepmerge": "4.2.2",
+    "element-ui": "2.13.0",
+    "vue": "2.6.11",
     "webpack": "^4.46.0",
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "@biu/simhash": "^0.1.0",
+    "@biu/simhash": "^0.1.1",
     "average": "^1.0.0",
-    "code-signature": "^0.1.1"
+    "code-signature": "^0.1.3"
   }
 }

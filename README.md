@@ -9,7 +9,7 @@ npm i webpack-clone-detection -D
 ## Usage
 
 ```js
-const CloneDetection = require( 'webpack-clone-detection )
+const CloneDetection = require( 'webpack-clone-detection' )
 
 // in your webpack config
 {
