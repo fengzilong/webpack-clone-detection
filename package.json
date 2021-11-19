@@ -30,7 +30,6 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "@biu/simhash": "^0.1.1",
-    "code-signature": "^0.1.4"
+    "code-similarity": "^0.1.6"
   }
 }
